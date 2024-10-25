@@ -23,7 +23,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
 
 if (builder.Environment.IsDevelopment() || builder.Environment.EnvironmentName == "Docker"){
-    // Configure SQL Server (local)
+    //// Configure SQL Server (local)
     Microsoft.eShopWeb.Infrastructure.Dependencies.ConfigureServices(builder.Configuration, builder.Services);
     //Environment.SetEnvironmentVariable("DD_SERVICE", "Eshop-Git-Vul", EnvironmentVariableTarget.Process);
     Environment.SetEnvironmentVariable("DD_VERSION", "4.0.0", EnvironmentVariableTarget.Machine);
