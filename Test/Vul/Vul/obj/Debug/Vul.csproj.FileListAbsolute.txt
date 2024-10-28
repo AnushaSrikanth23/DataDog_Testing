@@ -1,0 +1,7 @@
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\bin\Debug\Vul.exe.config
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\bin\Debug\Vul.exe
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\bin\Debug\Vul.pdb
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\obj\Debug\Vul.csproj.AssemblyReference.cache
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\obj\Debug\Vul.csproj.CoreCompileInputs.cache
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\obj\Debug\Vul.exe
+C:\Users\861465\Documents\DataDog_Testing\Test\Vul\Vul\obj\Debug\Vul.pdb
